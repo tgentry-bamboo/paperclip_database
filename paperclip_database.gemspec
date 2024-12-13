@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
 
   s.requirements << "ImageMagick"
 
-  s.add_dependency('kt-paperclip', '>= 2.3.0')
+  s.add_dependency('kt-paperclip', '>= 7.2.1')
 
   s.add_development_dependency('rspec', '~> 3.1')
   s.add_development_dependency('appraisal', '~> 2.0')
